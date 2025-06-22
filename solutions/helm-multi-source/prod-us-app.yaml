@@ -21,7 +21,7 @@ spec:
         - $values/helm-multi-source/my-values/env-type/prod-values.yaml  
         - $values/helm-multi-source/my-values/regions/us-values.yaml                
         - $values/helm-multi-source/my-values/envs/prod-us-values.yaml
-    - repoURL: 'https://github.com/codefresh-contrib/gitops-cert-level-3-examples.git'
+    - repoURL: 'https://github.com/oscarsjlh/gitops-cert-level-3-examples.git'
       targetRevision: HEAD
       ref: values
   syncPolicy:
