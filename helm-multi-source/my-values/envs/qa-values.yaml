@@ -1,5 +1,6 @@
 # Environment settings
 environment: qa
+region: eu
 
 # Application settings
 userInterfaceTheme: "dark"
